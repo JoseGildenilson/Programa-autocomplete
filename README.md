@@ -6,7 +6,7 @@ Este projeto implementa um sistema de preenchimento automático (_autocomplete_)
 
 A ideia é simular funcionalidades comuns em buscadores e sistemas modernos que oferecem sugestões inteligentes conforme o usuário digita, como no Google, IMDb, entre outros.
 
-O projeto foi desenvolvido como trabalho final para a disciplina de [nome da disciplina], com foco em:
+O projeto foi desenvolvido como trabalho final para a disciplina de Linguagem de Programação 1, com foco em:
 
 - Utilização de templates em C++ para criar listas genéricas e ordenadas.
 - Implementação de busca binária para eficiência na pesquisa de termos.

@@ -60,4 +60,10 @@ Para compilação do programa é necessário apenas digitar "make"
 make test
 // ou caso queira mudar o dataset e o valor de nomes compátiveis encontrados
 ./bin/autocompletar datasets/(datasetNome).txt (quantidadeDeListados)
+```
 
+
+### Colaboradores
+
+- [Artur Rochel](https://github.com/ArturRochel)
+- [Jamykson Freitas](https://github.com/Jamykson)
